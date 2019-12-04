@@ -27,7 +27,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 
 ## => Language and Timezone
 ##############################
-lang: en # the language of your site, default as "en"
+lang: # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
@@ -37,8 +37,8 @@ author:
   type      : person # "person" (default), "organization"
   name      : Guo Zhengkui
   url       : htts://drdestiny.github.io
-  avatar    : duanwu.jpg # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  avatar    : /duanwu.jpg # path or url of avatar image (square)
+  bio       : M.Sc in Information, CUHK; B.Eng in Optoelectronic Information Science and Technology, UESTC 
   email     : zhengkui_guo@outlook.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -46,7 +46,7 @@ author:
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : Dr.destiny # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  zhihu     : dr-destiny # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : Drdestiny # "user_name" the last part of your profile url, e.g. https://github.com/user_name
@@ -85,13 +85,13 @@ toc:
 ##############################
 ## Mathjax
 mathjax: true # false (default), true
-mathjax_autoNumber: # false (default), true
+mathjax_autoNumber: true # false (default), true
 
 ## Mermaid
-mermaid: # false (default), true
+mermaid: true # false (default), true
 
 ## Chart
-chart: # false (default), true
+chart: true # false (default), true
 
 
 ## => Paginate
