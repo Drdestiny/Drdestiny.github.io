@@ -174,8 +174,13 @@ VOT2016相比VOT2015变化不大，评价指标上，从OTB（另外一个测试
 ====
 
  [1] Kristan M, Matas J, Leonardis A, et al. A novel performance evaluation methodology for single-target trackers[J]. IEEE transactions on pattern analysis and machine intelligence, 2016, 38(11): 2137-2155.
+
  [2] Kristan M, Matas J, Leonardis A, et al. The Visual Object Tracking VOT2013 challenge results[J].Proceedings of the IEEE International Conference on Computer Vision workshops. 2013:98-111.
+
  [3] Kristan M, Pflugfelder R, Leonardis A, et al. The Visual Object Tracking VOT2014 challenge results[J]. COMPUTER VISION - ECCV 2016 WORKSHOPS, PT II, 2014, 8926:191-217.
+
  [4] Kristan M, Pflugfelder R, Matas J, et al. The Visual Object Tracking VOT2015 Challenge Results[C]// IEEE International Conference on Computer Vision Workshop. IEEE, 2016:564-586.
+
  [5] Kristan M, Leonardis A, Matas J, et al. The Visual Object Tracking VOT2016 Challenge Results[J]. COMPUTER VISION - ECCV 2016 WORKSHOPS, PT II, 2016, 8926:191-217.
+ 
  [6] Čehovin L, Leonardis A, Kristan M. Visual object tracking performance measures revisited[J]. IEEE Transactions on Image Processing, 2016, 25(3): 1261-1274.
