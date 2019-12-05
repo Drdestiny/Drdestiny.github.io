@@ -25,52 +25,39 @@ titles:
   # @end locale config
 key: page-about
 ---
+![me](\imgs\about\me.jpg)
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+## 郭正奎 Guo Zhengkui 
+MSc Student in [Information Engineering](http://msc.ie.cuhk.edu.hk/)
+The Chinese University of Hong Kong
+Hong Kong, China
+Email: zhengkui_guo@outlook.com
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+### Short Bio
+Guo Zhengkui is now a MSc student in Information Engineering in CUHK. He got B.Eng in Opto-Electronics Information Science and Engineering in UESTC. As a undergraduate, he participated in some Computer Vision related projects. Now he is still learning knowledge about CV and pursuing work related to CV.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+### Education
 
-## Features
+<p style="text-align:right">
+  <img src="imgs\about\CUHK.png" alt="UESTC" width = 84 height = 63 style="float:left">
+    <b><i>The Chinese University of Hong Kong</i></b>
+    <br>
+  <small>
+    <i>M.Sc in Information Engineering</i>
+    <br>
+    <i>2019.09 - now</i>
+  </small>
+</p>
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+<p style="text-align:right">
+  <img src="imgs\about\UESTC.png" alt="UESTC" width = 72 height = 72 style="float:left">
+    <b><i>University of Electronic Science and Technology of China</i></b>
+    <br>
+  <small>
+    <i>B.Eng in Opto-Electronics Information Science and Engineering</i>
+    <br>
+    <i>2014.09 - 2018.07</i>
+  </small>
+</p>
 
-## Skins
 
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
-
-I am just a test.

@@ -1,4 +1,13 @@
-﻿2018.09.30更新：
+﻿---
+layout: article
+title: VOT(Visual Object Tracking)评价指标综述
+lang: zh-Hans
+show_date: true
+show_tags: true
+author: Guo Zhengkui
+---
+
+2018.09.30更新：
 在**VOT2015**部分补充**R score**的定义
 
 ---
