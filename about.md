@@ -51,4 +51,4 @@ Guo Zhengkui is now a MSc student in Information Engineering in CUHK. He got B.E
   </small>
 </p>
 
-<img src="imgs\about\UESTC.png" alt="UESTC" width = 72 height = 72 style="float:left">
+<img src="imgs\about\UESTC.png" alt="UESTC" width = 72 height = 72>
