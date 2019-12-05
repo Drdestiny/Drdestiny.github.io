@@ -38,10 +38,10 @@ Guo Zhengkui is now a MSc student in Information Engineering in CUHK. He got B.E
 
 ### Education
 
-<p style="text-align:right"><img src="imgs\about\CUHK.png" alt="UESTC" width = 84 height = 63 style="float:left"><b><i>The Chinese University of Hong Kong</i></b><br><small><i>M.Sc in Information Engineering</i><br><i>2019.09 - now</i></small></p>
+<p style="text-align:right"><img src="imgs\about\CUHK.png" alt="UESTC" width = "84" height = "63" style="float:left"><b><i>The Chinese University of Hong Kong</i></b><br><small><i>M.Sc in Information Engineering</i><br><i>2019.09 - now</i></small></p>
 
 <p style="text-align:right">
-  <img src="imgs\about\UESTC.png" alt="UESTC" width = 72 height = 72 style="float:left">
+  <img src="imgs\about\UESTC.png" alt="UESTC" width = "72" height = "72" style="float:left">
     <b><i>University of Electronic Science and Technology of China</i></b>
     <br>
   <small>
@@ -50,5 +50,3 @@ Guo Zhengkui is now a MSc student in Information Engineering in CUHK. He got B.E
     <i>2014.09 - 2018.07</i>
   </small>
 </p>
-
-<img src="imgs\about\UESTC.png" alt="UESTC" width = 72 height = 72>
