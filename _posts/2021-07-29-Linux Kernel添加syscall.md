@@ -96,7 +96,7 @@ SYSCALL_DEFINE1(getms_sinceboot, unsigned int __user *, msecs)
 
 ## 编译与文件传输
 
-内核的编译这里就不再赘述，参考[Qemu虚拟机运行ARM64架构的Linux](http://km.vivo.xyz/pages/viewpage.action?pageId=427237918)。
+内核的编译这里就不再赘述，参考：Qemu虚拟机运行ARM64架构的Linux。
 
 这里说一下测试程序的编译——之前为了编译内核，已经安装过了。用法和gcc相同：
 
