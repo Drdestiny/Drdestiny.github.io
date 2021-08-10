@@ -1,10 +1,6 @@
 ﻿---
-layout: article
 title: VOT(Visual Object Tracking)评价指标综述
-lang: zh-Hans
-show_date: true
-show_tags: true
-author: Drdestiny
+tags: CV Tracking SOT VOT
 ---
 
 2018.09.30更新：

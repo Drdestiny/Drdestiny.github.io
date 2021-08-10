@@ -1,10 +1,6 @@
 ---
-layout: article
-title: Ubuntu 16.04 LTS下安装MATLAB R2016b
-lang: zh-Hans
-show_date: true
-show_tags: true
-author: Drdestiny
+title: 串口登录Linux (Debian 10)
+tags: Linux 串口 minicom
 ---
 
 ### 太长不看
