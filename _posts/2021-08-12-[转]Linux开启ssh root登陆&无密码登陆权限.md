@@ -1,5 +1,5 @@
 ---
-title: [转]Linux开启ssh root登陆&无密码登陆权限
+title: Linux开启ssh root登陆&无密码登陆权限[转]
 tags: Linux ssh root 小技巧
 ---
 
